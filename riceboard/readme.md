@@ -5,8 +5,8 @@
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [timmPrice](https://github.com/timmPrice)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: *raspberry pi pico*
+* Hardware Availability: *https://www.raspberrypi.com/products/raspberry-pi-pico/*
 
 Make example for this keyboard (after setting up your build environment):
 
