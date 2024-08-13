@@ -24,7 +24,7 @@ An improved version with a pcb and nicer case is being worked on! I have lots of
 - 2x raspberry pi pico
 - 2x trrs receiver
 - 4 pole trrs cable
-- 36x mx style switches I used and would recommend [switches](https://kineticlabs.com/switches/gateron/gateron-curry-switches)
+- 36x mx style switches I used, like, and would recommend [these](https://kineticlabs.com/switches/gateron/gateron-curry-switches)
 - 2x bottom plate 
 - 2x top plate
 - ~12x brass spacers to support the middle around size M2 * 6 
