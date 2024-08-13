@@ -2,12 +2,13 @@
 
 # Riceboard #
 
-This keyboard is heavily inspired by other split keyboards such as the [ferris sweep](https://github.com/davidphilipbarr/Sweep) 
+This keyboard is heavily inspired by other split keyboards such as the [ferris sweep](https://github.com/davidphilipbarr/Sweep).
 It gets its name because recently I've been interested in *ricing* linux. It needs a better name, I'm open to suggestions.
 
-**attention** this is a *minimum viable product*, and is therefore merely an expirament for me to learn the qmk software package and see if I even like using minimal split keyboards
+**Attention** this is a *minimum viable product*, and is  merely an experiment for me to learn the qmk software package and see if I even like using minimal split keyboards.
 An improved version with a pcb and nicer case is being worked on! I have lots of ideas for improvements such as where I'll be adding some extra keys
-
+ I have lots of ideas for improvements such as where I'll be adding some extra keys
+ 
 ## To flash firmware ##
 
 1. Make sure you have **installed** and **setup** QMK 
