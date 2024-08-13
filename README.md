@@ -1,11 +1,11 @@
 ![riceboard main image](https://github.com/timmPrice/custom-keyboard/blob/main/images/laptop.png)
 
-# ==Riceboard== #
+# Riceboard #
 
 It gets its name because recently I've been interested in *ricing* linux. It needs a better name, I'm open to suggestions.
 
 **attention** this is a *minimum viable product*, and is therefore merely an expirament for me to learn the qmk software package and see if I even like using minimal split keyboards
-An improved version with a pcb and nicer case is being worked on! I have lots of ideas for improvements such as where I'll be adding some extra keys :joy:
+An improved version with a pcb and nicer case is being worked on! I have lots of ideas for improvements such as where I'll be adding some extra keys
 
 ## To flash firmware ##
 
@@ -33,7 +33,6 @@ An improved version with a pcb and nicer case is being worked on! I have lots of
 
 ![riceboard main image](https://github.com/timmPrice/custom-keyboard/blob/main/images/half_close.png)
 ![riceboard main image](https://github.com/timmPrice/custom-keyboard/blob/main/images/top.png)
-![riceboard main image](https://github.com/timmPrice/custom-keyboard/blob/main/images/side.png)
 
 
 
