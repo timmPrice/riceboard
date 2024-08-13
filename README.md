@@ -2,6 +2,7 @@
 
 # Riceboard #
 
+This keyboard is heavily inspired by other split keyboards such as the [ferris sweep](https://github.com/davidphilipbarr/Sweep) 
 It gets its name because recently I've been interested in *ricing* linux. It needs a better name, I'm open to suggestions.
 
 **attention** this is a *minimum viable product*, and is therefore merely an expirament for me to learn the qmk software package and see if I even like using minimal split keyboards
