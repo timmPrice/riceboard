@@ -18,6 +18,9 @@ An improved version with a pcb and nicer case is being worked on! I have lots of
 3. to flash each side
         `qmk flash -km default -kb riceboard`
 
+## Schematic ##
+
+![schematic](https://github.com/timmPrice/custom-keyboard/blob/main/schematic/Schematic_riceboard-right.png)
 
 ## Parts List ##
 
